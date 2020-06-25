@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample post
+title: Wellcom post
 categories:
 - blog
 ---
@@ -42,3 +42,5 @@ class User < ActiveRecord::Base
 end
 
 {% endhighlight %}
+
+
