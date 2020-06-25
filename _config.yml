@@ -3,3 +3,6 @@ highlighter: rouge
 url: https://takagotch.github.io/page35
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
+
+
+
