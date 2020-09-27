@@ -1,3 +1,8 @@
+### https://takagotch.github.io/page35/
+---
+
+
+
 # Lagom
 
 > #### *Lagom* is a Swedish word with no direct English equivalent, meaning "just the right amount"
